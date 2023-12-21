@@ -1,0 +1,3 @@
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/cmake-build-debug/CMakeFiles/nmlib.dir

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/matrix.h
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/tensor.h
+memory
+-
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/vector.h
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/main.cpp
+iostream
+-
+inc/tensor.h
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/tensor.h
+inc/matrix.h
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/matrix.h
+inc/vector.h
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/inc/vector.h
+test/test_tensor.h
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/test/test_tensor.h
+test/test_matrix.h
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/test/test_matrix.h
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/test/test_matrix.h
+
+/Users/kenygeovanychinparra/Documents/Shared_dir_ubuntu2/Proyectos_CPP/nmlib/test/test_tensor.h
+

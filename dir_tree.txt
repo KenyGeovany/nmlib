@@ -1,0 +1,51 @@
+Arbol de archivos de nmlib
+
+Archivos y directorios temporales:
+- CLion
+	- CMakeList.txt
+	- cmake-build-debug
+	- .idea
+- Code::block
+
+
+nmlib
+|
+|------ dir_tree.txt
+|------ README.txt
+|------ CMakeList.txt
+|------ main.cpp
+|------ inc
+|	|
+|	|------ tensor.h
+|	|------ nm_matrix.h
+|	|------ vector.h
+|	|------ LinealAlgebra.h
+|	|------ SolversLinealSystems.h
+|	|------ SolversEigenVP.h
+|	|------ Interpolation.h
+|	|------ Derivation.h
+|	|------ Integration.h
+|
+|------ lib
+|	|
+|	|------ tensor.c
+|	|------ nm_matrix.c
+|	|------ vector.c
+|	|------ LinealAlgebra.c
+|	|------ SolversLinealSystems.c
+|	|------ SolversEigenVP.c
+|	|------ Interpolation.c
+|	|------ Derivation.c
+|	|------ Integration.c
+|
+|------ test
+|	|
+|	|------ test_tensor.c
+|	|------ test_matrix.c
+|	|------ test_vector.c
+|	|------ test_LinealAlgebra.c
+|	|------ test_SolversLinealSystems.c
+|	|------ test_SolversEigenVP.c
+|	|------ test_Interpolation.c
+|	|------ test_Derivation.c
+|	|------ test_Integration.c
